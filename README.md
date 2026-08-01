@@ -37,6 +37,7 @@
 | CrowdReviews | 71 | https://www.crowdreviews.com | Free |
 | G2 Crowd | 71 | http://g2.com/products/new | Free |
 | SaaSHub | 71 | http://saashub.com/submit | Free |
+| SaaSCity | 46 | https://saascity.io/submit | Free |
 | SiteJabber | 71 | http://sitejabber.com/ | Free |
 | FinancesOnline | 70 | http://financesonline.com/ | Free |
 | SpringWise | 70 | http://springwise.com/spotted/ | Free |
